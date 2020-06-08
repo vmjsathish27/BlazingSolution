@@ -15397,11 +15397,9 @@ label {
     top: 0;
 }
 .page-title-area {
-    position: relative;
-    z-index: 1;
-    background: url(banner-bg1.c8e7f324943288541bc1.jpg) right top no-repeat;
-    padding-top: 190px;
-    padding-bottom: 100px;
+    position: relative; 
+    z-index: 1;    
+    padding-top: 110px;   
     text-align: center;
     border-bottom: 1px dashed #f1f1f1;
 }
@@ -15410,6 +15408,32 @@ label {
     font-weight: 700;
     margin: 0;
 }
+
+
+.PgaeTitle {
+    padding: 200px 0px;
+    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1591620935phpL02RS2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.PgaeTitle h2 {
+    font-size: 44px;
+    font-weight: 700;
+    margin: 0;
+	text-align: center;
+}
+
+.PgaeTitle p {
+    font-size: 18px;
+    font-weight: 500;    
+	text-align: center;
+	color: #000;
+    line-height: 1.8;
+}
+
+
+
 .faq-accordion {
     box-shadow: 0 0 18px 0 rgba(0, 0, 0, 0.08);
     padding: 60px;
