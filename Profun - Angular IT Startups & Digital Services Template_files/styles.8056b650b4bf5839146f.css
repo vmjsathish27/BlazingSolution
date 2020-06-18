@@ -15399,9 +15399,9 @@ label {
 .page-title-area {
     position: relative; 
     z-index: 1;    
-    padding-top: 110px;   
+    padding-top: 120px;   
     text-align: center;
-    border-bottom: 1px dashed #f1f1f1;
+    
 }
 .page-title-area h2 {
     font-size: 30px;
@@ -15412,7 +15412,7 @@ label {
 
 .PgaeTitle {
     padding: 200px 0px;
-    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1591620935phpL02RS2.jpg);
+    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1592491964phpXw99Kl.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -15421,15 +15421,18 @@ label {
     font-size: 44px;
     font-weight: 700;
     margin: 0;
-	text-align: center;
+	text-align: left;
 }
 
 .PgaeTitle p {
     font-size: 18px;
     font-weight: 500;    
-	text-align: center;
+	text-align: left;
 	color: #000;
     line-height: 1.8;
+}
+.features-details-area {
+    padding-bottom: 80px;
 }
 
 
